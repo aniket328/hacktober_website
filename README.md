@@ -1,5 +1,7 @@
 ## [View website](https://aniket328.github.io/hacktober_website/)
 
+Website for hackoctober-fest
+
 
 ## Welcome to GitHub Pages
 
