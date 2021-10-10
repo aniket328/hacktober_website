@@ -8,6 +8,7 @@ General Information Website for hackoctober-fest
 
 ADD CONTENTS HERE IN "README.MD" ABOUT HACKTOBER FEST, TO ADD IT TO THE WEBSITE
 
+![Hacktoberfest 2021](./images/small.jfif)
 
 ### About Hacktober
 2013 marks the begining of this amazing fest wherein all the open source enthusiasts are welcomed.
@@ -48,6 +49,8 @@ Perks of participating in hacktoberfest
  - If a maintainer reports your pull request as **spam**, it will not be counted toward your participation in Hacktoberfest.
  - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be **ineligible** to participate.
  - A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the '**hacktoberfest-accepted**' label.
+
+ <img src="./images/PR.png" alt="4 pull requests" height="200px" /><br>
  
 ### Word of Caution
 - Spammy pull requests can be labeled as “**spam**” or "**invalid**." Pull requests with a label containing either of these words won't count toward Hacktoberfest.
@@ -57,6 +60,8 @@ Perks of participating in hacktoberfest
 ## Good Luck and Warm Welcome to All
 A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations to all participants in Hacktoberfest. 
 We are all happy and excited about your inputs and contribution to Hacktoberfest.
+
+![Hacktoberfest 2021](./images/share-card.png)
 
 
 
