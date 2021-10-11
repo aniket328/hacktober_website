@@ -83,14 +83,16 @@ requests to remove a stray whitespace is not
 - Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.<br/>
   Find these repostiories.
 - When a repostiory interests you. **Fork it **
-**fork image**
+  ![Hacktoberfest 2021](./images/fork.PNG)
 - Copy the URL of this forked repo.
 - In you PC/Laptop ,open terminal (Linux)/Command Prompt and in the designated folder run **git clone "copied URL"** This will clone the repo to your PC.
 - Open repo in PC. Do necessary changes then type **git status** it will show some **untracked files** .These are changes you did but are not present in your repo at github.
 - Run **git add .** to stage these changes. Now you are ready to commit.
 - Run **git commit -m "Any message you want to type , It will be good if its related to the changes you did"**
 - Run **git push origin main**. In place of "main" write your branch name.
+  ![Hacktoberfest 2021](./images/branch.png)
 - Well Done you have successfully commited your changes to github repo.
+  ![Hacktoberfest 2021](./images/openPR.png)
   
 
 ### Swags (Win Limited Edition Swag!!)
