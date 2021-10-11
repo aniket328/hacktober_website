@@ -91,8 +91,9 @@ requests to remove a stray whitespace is not
 - Run **git commit -m "Any message you want to type , It will be good if its related to the changes you did"**
 - Run **git push origin main**. In place of "main" write your branch name.
   ![Hacktoberfest 2021](./images/branch.png)
-- Well Done you have successfully commited your changes to github repo.
+- **Well Done you have successfully commited your changes to github repo.**
   ![Hacktoberfest 2021](./images/openPR.png)
+- [Know more about PRs](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
   
 
 ### Swags (Win Limited Edition Swag!!)
