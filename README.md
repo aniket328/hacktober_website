@@ -79,6 +79,20 @@ requests to remove a stray whitespace is not
 - Pull requests must be approved by a maintainer. PRs can be accepted either by being merged, having an overall approving review, or having the ‘**hacktoberfest-accepted**’ label.After a PR is approved it enters a fourteen-day review window where hacktober team does some more checking in accordance with **Hacktober Rules**.After the fourteen-day window has passed, the PR becomes eligible for Hacktoberfest and this cannot be reversed.
 - Bad repositories will be excluded.Many repositories encourage participants to make simple pull requests – to quickly gain a pull request towards winning. While these projects may be a valuable learning tool for new contributors, they often aren't valuable and high quality contributions to open source projects, and go against the fest's core values.
 
+**How to make a PR**
+- Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.<br/>
+  Find these repostiories.
+- When a repostiory interests you. **Fork it **
+**fork image**
+- Copy the URL of this forked repo.
+- In you PC/Laptop ,open terminal (Linux)/Command Prompt and in the designated folder run **git clone "copied URL"** This will clone the repo to your PC.
+- Open repo in PC. Do necessary changes then type **git status** it will show some **untracked files** .These are changes you did but are not present in your repo at github.
+- Run **git add .** to stage these changes. Now you are ready to commit.
+- Run **git commit -m "Any message you want to type , It will be good if its related to the changes you did"**
+- Run **git push origin main**. In place of "main" write your branch name.
+- Well Done you have successfully commited your changes to github repo.
+  
+
 ### Swags (Win Limited Edition Swag!!)
 Swag List:
 - **One contribution**: OG Appwrite sticker pack
