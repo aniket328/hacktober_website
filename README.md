@@ -42,7 +42,6 @@ Perks of participating in hacktoberfest
 
 - It rouses you to put forth a valiant effort and empower you while give invigorating treats like shirts / establishing plants of your name on finishing 4 ventures.
 
-![Hacktoberfest 2021](./images/swags.PNG)
 
 ### Hacktober Rules 
  - Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the '**hacktoberfest**' topic to know if a project is participating in Hacktoberfest
@@ -54,10 +53,47 @@ Perks of participating in hacktoberfest
 
  <img src="./images/PR.png" alt="4 pull requests" height="200px" /><br>
  
-### Word of Caution
+### About Pull Requests
+
+**SOME TIPS**:
+- Make smaller pull requests
+- Write useful descriptions and titles
+- Have on-point commit messages
+- Add comments on your pull request to help guide the reviewer<br/>
+**These tips help the reviewer so that your PR gets accepted fast**.
+
+**Poor standards**:
+- Pull requests that are automated e.g. scripted opening pull
+requests to remove whitespace / fix typos / optimize images.
+- Pull requests that are disruptive e.g. taking someone else's
+branch/commits and making a pull request.
+- Pull requests that are regarded by a project maintainer as a
+hindrance vs. helping.
+- Something that's clearly an attempt to simply +1 your pull request
+count for October.
+- Last but not least, one pull request to fix a typo is fine, but 5 pull
+requests to remove a stray whitespace is not
+ 
+ **Word of Caution**
 - Spammy pull requests can be labeled as “**spam**” or "**invalid**." Pull requests with a label containing either of these words won't count toward Hacktoberfest.
 - Pull requests must be approved by a maintainer. PRs can be accepted either by being merged, having an overall approving review, or having the ‘**hacktoberfest-accepted**’ label.After a PR is approved it enters a fourteen-day review window where hacktober team does some more checking in accordance with **Hacktober Rules**.After the fourteen-day window has passed, the PR becomes eligible for Hacktoberfest and this cannot be reversed.
 - Bad repositories will be excluded.Many repositories encourage participants to make simple pull requests – to quickly gain a pull request towards winning. While these projects may be a valuable learning tool for new contributors, they often aren't valuable and high quality contributions to open source projects, and go against the fest's core values.
+
+### Swags (Win Limited Edition Swag!!)
+Swag List:
+- **One contribution**: OG Appwrite sticker pack
+- **Two Contributions**: OG Appwrite sticker pack + Limited Edition
+Hacktoberfest sticker pack
+- **Three Contributions**: OG Appwrite sticker pack + Limited Edition
+Hacktoberfest sticker pack + Mug
+- **Four Contributions or more**: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug
+![Hacktoberfest 2021](./images/swags.PNG)
+- Rather than receive t-shirts as swag, you can choose to have a tree
+planted in your name and help make Hacktoberfest 2021 more carbon
+neutral
+- Individual Company Swags are also given if their requirements are fulfilled
+
+
 
 ## Good Luck and Warm Welcome to All
 A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations to all participants in Hacktoberfest. 
