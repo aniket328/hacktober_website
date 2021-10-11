@@ -45,7 +45,7 @@ Perks of participating in hacktoberfest
 
 ### Hacktober Rules 
  - Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the '**hacktoberfest**' topic to know if a project is participating in Hacktoberfest
- - You can sign up **anytime between October 1 and October 31**. Just be sure to sign up on the official [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) for your pull requests to count.
+ - You can **sign up** anytime **between October 1 and October 31**. Just be sure to sign up on the official [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) for your pull requests to count.
  - The pull request must contain commits you made yourself.
  - If a maintainer reports your pull request as **spam**, it will not be counted toward your participation in Hacktoberfest.
  - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be **ineligible** to participate.
@@ -79,6 +79,23 @@ requests to remove a stray whitespace is not
 - Pull requests must be approved by a maintainer. PRs can be accepted either by being merged, having an overall approving review, or having the ‘**hacktoberfest-accepted**’ label.After a PR is approved it enters a fourteen-day review window where hacktober team does some more checking in accordance with **Hacktober Rules**.After the fourteen-day window has passed, the PR becomes eligible for Hacktoberfest and this cannot be reversed.
 - Bad repositories will be excluded.Many repositories encourage participants to make simple pull requests – to quickly gain a pull request towards winning. While these projects may be a valuable learning tool for new contributors, they often aren't valuable and high quality contributions to open source projects, and go against the fest's core values.
 
+**How to make a PR**
+- Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.<br/>
+  Find these repostiories.
+- When a repostiory interests you. **Fork it **
+  ![Hacktoberfest 2021](./images/fork.PNG)
+- Copy the URL of this forked repo.
+- In you PC/Laptop ,open terminal (Linux)/Command Prompt and in the designated folder run **git clone "copied URL"** This will clone the repo to your PC.
+- Open repo in PC. Do necessary changes then type **git status** it will show some **untracked files** .These are changes you did but are not present in your repo at github.
+- Run **git add .** to stage these changes. Now you are ready to commit.
+- Run **git commit -m "Any message you want to type , It will be good if its related to the changes you did"**
+- Run **git push origin main**. In place of "main" write your branch name.
+  ![Hacktoberfest 2021](./images/branch.png)
+- **Well Done you have successfully commited your changes to github repo.**
+  ![Hacktoberfest 2021](./images/openPR.png)
+- [Know more about PRs](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+  
+
 ### Swags (Win Limited Edition Swag!!)
 Swag List:
 - **One contribution**: OG Appwrite sticker pack
@@ -99,7 +116,7 @@ neutral
 A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations to all participants in Hacktoberfest. 
 We are all happy and excited about your inputs and contribution to Hacktoberfest.
 
-![Hacktoberfest 2021](./images/share-card.png)
+![Hacktoberfest 2021](./images/StartHack.PNG)
 
 
 
