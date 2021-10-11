@@ -45,7 +45,7 @@ Perks of participating in hacktoberfest
 
 ### Hacktober Rules 
  - Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the '**hacktoberfest**' topic to know if a project is participating in Hacktoberfest
- - You can sign up **anytime between October 1 and October 31**. Just be sure to sign up on the official [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) for your pull requests to count.
+ - You can **sign up** anytime **between October 1 and October 31**. Just be sure to sign up on the official [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) for your pull requests to count.
  - The pull request must contain commits you made yourself.
  - If a maintainer reports your pull request as **spam**, it will not be counted toward your participation in Hacktoberfest.
  - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be **ineligible** to participate.
@@ -99,7 +99,7 @@ neutral
 A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations to all participants in Hacktoberfest. 
 We are all happy and excited about your inputs and contribution to Hacktoberfest.
 
-![Hacktoberfest 2021](./images/share-card.png)
+![Hacktoberfest 2021](./images/StartHack.PNG)
 
 
 
