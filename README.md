@@ -125,7 +125,11 @@ We are all happy and excited about your inputs and contribution to Hacktoberfest
 
 
 Happy Coding!!!
-All the best!!!
+
+Best of Luck
+Hacktober 2021!!!
+
+
 
 
 
