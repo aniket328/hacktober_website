@@ -32,3 +32,5 @@ Check all the remote branches using:
 8. When you are ready to show your work
 
 ` $ git push origin (topic-branch-name) `
+
+That's it, you rocked!
