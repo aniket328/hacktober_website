@@ -118,6 +118,15 @@ We are all happy and excited about your inputs and contribution to Hacktoberfest
 
 ![Hacktoberfest 2021](./images/StartHack.PNG)
 
+Catch us on [Twitter!](https://twitter.com/hacktoberfest)
+
+
+Happy Coding!!!
+
+Best of Luck
+Hacktober 2021!!!
+
+
 
 
 
