@@ -11,11 +11,11 @@ ADD CONTENTS HERE IN "README.MD" ABOUT HACKTOBER FEST, TO ADD IT TO THE WEBSITE
 ![Hacktoberfest 2021](./images/small.jfif)
 
 ### About Hacktober
-2013 marks the begining of this amazing fest wherein all the open source enthusiasts are welcomed.
+2013 marked the begining of this amazing fest wherein all the open source enthusiasts were welcomed.
 As the name suggests its a month long celebration for Oct 1 to Oct 31 every year.
 
 ## Aim 
-Facilitated by DigitalOcean , it  intends to urge contributors to add to open-source ventures , help each other to grow and reward the local area.
+Facilitated by DigitalOcean , it intends to urge contributors to add to open-source ventures, help each other to grow and reward the local area.
 
 ## What's there for you!!!!
 Whether you are a  complete novice in the field of open source , or an experienced one.
