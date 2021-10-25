@@ -36,7 +36,7 @@ They say if you want to go fast go alone, if you want to go far walk together.
 
 - Quantity is fun, quality is key. Participating in Hacktoberfest leads to personal growth, professional opportunities, and community building. However, it all begins with meaningful contributions to open source software. We are committed to prioritizing quality contributions as outlined in our participation rules.
 
--Short-term action, long-term impact. In the open source software community, we are standing on the shoulders of project maintainers and those who came before us. Your participation has a lasting effect on people and technology long after October.
+- Short-term action, long-term impact. In the open source software community, we are standing on the shoulders of project maintainers and those who came before us. Your participation has a lasting effect on people and technology long after October.
 
 ## Perks
 Perks of participating in hacktoberfest
