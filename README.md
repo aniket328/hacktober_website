@@ -3,7 +3,7 @@
 
 ## [View website](https://aniket328.github.io/hacktober_website/)
  ☝️ ☝️ ☝️ ☝️
-General Information Website for hackoctober-fest
+General Information Website for hacktober-fest
 
 
 ADD CONTENTS HERE IN "README.MD" ABOUT HACKTOBER FEST, TO ADD IT TO THE WEBSITE
@@ -29,6 +29,15 @@ They say if you want to go fast go alone, if you want to go far walk together.
  - Mentor others
  - Donate directly to open source projects
 
+
+## Values
+
+- Everyone is welcome. Participants in Hacktoberfest come from all over the world and represent thousands of unique skill sets. This program welcomes everyone who's already part of the open source software community, and anyone who is interested in “diving in”.
+
+- Quantity is fun, quality is key. Participating in Hacktoberfest leads to personal growth, professional opportunities, and community building. However, it all begins with meaningful contributions to open source software. We are committed to prioritizing quality contributions as outlined in our participation rules.
+
+-Short-term action, long-term impact. In the open source software community, we are standing on the shoulders of project maintainers and those who came before us. Your participation has a lasting effect on people and technology long after October.
+
 ## Perks
 Perks of participating in hacktoberfest
 
@@ -38,7 +47,7 @@ Perks of participating in hacktoberfest
 
 - You can develop your organizations through this stage which will help you in future. 
 
-- Hacktober Fest gives you a recognization over others ,which assists you with developing your vocation. 
+- Hacktober Fest gives you a recognization over others, which assists you with developing your vocation. 
 
 - It rouses you to put forth a valiant effort and empower you while give invigorating treats like shirts / establishing plants of your name on finishing 4 ventures.
 
@@ -77,7 +86,7 @@ requests to remove a stray whitespace is not
  **Word of Caution**
 - Spammy pull requests can be labeled as “**spam**” or "**invalid**." Pull requests with a label containing either of these words won't count toward Hacktoberfest.
 - Pull requests must be approved by a maintainer. PRs can be accepted either by being merged, having an overall approving review, or having the ‘**hacktoberfest-accepted**’ label.After a PR is approved it enters a fourteen-day review window where hacktober team does some more checking in accordance with **Hacktober Rules**.After the fourteen-day window has passed, the PR becomes eligible for Hacktoberfest and this cannot be reversed.
-- Bad repositories will be excluded.Many repositories encourage participants to make simple pull requests – to quickly gain a pull request towards winning. While these projects may be a valuable learning tool for new contributors, they often aren't valuable and high quality contributions to open source projects, and go against the fest's core values.
+- Bad repositories will be excluded. Many repositories encourage participants to make simple pull requests – to quickly gain a pull request towards winning. While these projects may be a valuable learning tool for new contributors, they often aren't valuable and high quality contributions to open source projects, and go against the fest's core values.
 
 **How to make a PR**
 - Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.<br/>
@@ -133,4 +142,4 @@ Hacktober 2021!!!
 
 
 
-All the best for Hactober 2021
+All the best for Hacktober 2021
