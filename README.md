@@ -114,6 +114,8 @@ Hacktoberfest sticker pack
 Hacktoberfest sticker pack + Mug
 - **Four Contributions or more**: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug
 ![Hacktoberfest 2021](./images/swags.PNG)
+![Hacktoberfest 2021](./images/Picture1-480x336.png)
+
 - Rather than receive t-shirts as swag, you can choose to have a tree
 planted in your name and help make Hacktoberfest 2021 more carbon
 neutral
